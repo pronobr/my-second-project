@@ -89,3 +89,24 @@ p{
     text-align: center;
     color: white;
 }
+.icon{
+    color: orangered;
+    text-shadow: 1px 1px 1px #ccc;
+}
+.container{
+    padding: 1% 4% 1% 4%;
+    text-align: center;
+}
+.item{
+    
+    border: 3px solid red;
+    padding: 35px 45px 35px 45px;    
+
+}
+.item h3{
+    font-size: 30px;
+}
+.service h1{
+    padding-left: 50px;
+    font-size: 40px;
+}
